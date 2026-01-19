@@ -18,7 +18,7 @@ A comprehensive bash script for automatically installing GROMACS molecular dynam
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/YOUR_USERNAME/gromacs-auto-installer/main/install-gromacs.sh
+wget https://raw.githubusercontent.com/Mohammed-Alhuraibi/gromacs-auto-installer/main/install-gromacs.sh
 chmod +x install-gromacs.sh
 
 # Install GROMACS 2025.4
@@ -170,7 +170,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter issues:
-1. Check the [Issues](https://github.com/YOUR_USERNAME/gromacs-auto-installer/issues) page
+1. Check the [Issues](https://github.com/Mohammed-Alhuraibi/gromacs-auto-installer/issues) page
 2. Create a new issue with:
    - Your operating system and version
    - GCC version (`gcc --version`)
@@ -179,4 +179,4 @@ If you encounter issues:
 
 ---
 
-**Note**: Replace `YOUR_USERNAME` with your actual GitHub username before publishing.
+**Note**: Replace `Mohammed-Alhuraibi` with your actual GitHub username before publishing.
