@@ -177,6 +177,4 @@ If you encounter issues:
    - GROMACS version you're trying to install
    - Complete error output
 
----
 
-**Note**: Replace `Mohammed-Alhuraibi` with your actual GitHub username before publishing.
